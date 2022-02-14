@@ -1,0 +1,4 @@
+NOT V2:
+    CommandCryptoProtocol
+    ServerCryptoProtocol
+
